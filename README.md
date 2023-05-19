@@ -1,5 +1,18 @@
 # CXml Invoice Generator
 
+### Technical Test completed by Saeed Nawaz (May-2023)
+ - I've designed my solution so that it has seperation of concerns and allows the modules to be reused.
+   For example the InvoicingService can be plugged in a mircoservice/web api and be invoked from a client.
+ - The solution is designed to be extensible, for example, if we want to add a new invoice type, we can simply add a new class that implements the IInvoice interface
+
+ Solutuion Structure:
+ - CXmlInvoiceGenerator (Console App): This is the entry point for the application. It uses the InvoicingService to generate the invoices and save them to the file system
+ - StormTechnologies.Entities: Holds the entities for the application. POCOs for the data and the CXML for the xml invoice structure
+ - StormTechnologies.InvoicingService: Holds the invoicing logic
+ - StormTechnologies.Repository: Holds the database access logic
+ - StormTechnologies.Settings: Holds the settings for the application
+
+
 ### Please complete this function 
 
 Using the DatabaseAccess dll provided and referenced (in the refs folder), load each invoice from the database and create a cXml invoice document using the information from each invoice. The following is a very helpful resource for cXml:
