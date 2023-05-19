@@ -1,0 +1,16 @@
+C:\Saeed\StormTechnologies\technicalTest1\StormTechnologies.Repository\bin\Debug\net6.0\StormTechnologies.Repository.deps.json
+C:\Saeed\StormTechnologies\technicalTest1\StormTechnologies.Repository\bin\Debug\net6.0\StormTechnologies.Repository.dll
+C:\Saeed\StormTechnologies\technicalTest1\StormTechnologies.Repository\bin\Debug\net6.0\StormTechnologies.Repository.pdb
+C:\Saeed\StormTechnologies\technicalTest1\StormTechnologies.Repository\bin\Debug\net6.0\DatabaseAccess.dll
+C:\Saeed\StormTechnologies\technicalTest1\StormTechnologies.Repository\bin\Debug\net6.0\StormTechnologies.Entities.dll
+C:\Saeed\StormTechnologies\technicalTest1\StormTechnologies.Repository\bin\Debug\net6.0\StormTechnologies.Entities.pdb
+C:\Saeed\StormTechnologies\technicalTest1\StormTechnologies.Repository\obj\Debug\net6.0\StormTechnologies.Repository.csproj.AssemblyReference.cache
+C:\Saeed\StormTechnologies\technicalTest1\StormTechnologies.Repository\obj\Debug\net6.0\StormTechnologies.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Saeed\StormTechnologies\technicalTest1\StormTechnologies.Repository\obj\Debug\net6.0\StormTechnologies.Repository.AssemblyInfoInputs.cache
+C:\Saeed\StormTechnologies\technicalTest1\StormTechnologies.Repository\obj\Debug\net6.0\StormTechnologies.Repository.AssemblyInfo.cs
+C:\Saeed\StormTechnologies\technicalTest1\StormTechnologies.Repository\obj\Debug\net6.0\StormTechnologies.Repository.csproj.CoreCompileInputs.cache
+C:\Saeed\StormTechnologies\technicalTest1\StormTechnologies.Repository\obj\Debug\net6.0\StormTechnologies.Repository.csproj.CopyComplete
+C:\Saeed\StormTechnologies\technicalTest1\StormTechnologies.Repository\obj\Debug\net6.0\StormTechnologies.Repository.dll
+C:\Saeed\StormTechnologies\technicalTest1\StormTechnologies.Repository\obj\Debug\net6.0\refint\StormTechnologies.Repository.dll
+C:\Saeed\StormTechnologies\technicalTest1\StormTechnologies.Repository\obj\Debug\net6.0\StormTechnologies.Repository.pdb
+C:\Saeed\StormTechnologies\technicalTest1\StormTechnologies.Repository\obj\Debug\net6.0\ref\StormTechnologies.Repository.dll

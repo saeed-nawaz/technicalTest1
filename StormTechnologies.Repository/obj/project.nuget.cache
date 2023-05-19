@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S1AyUlDVFJ5kyZnsFclO3bFx2JvXRXmo6QSvMaKondAMqSwR0KCZbqPxzP3hQwo8OM5NAlMjVycEakNVrhVo8g==",
+  "success": true,
+  "projectFilePath": "C:\\Saeed\\StormTechnologies\\technicalTest1\\StormTechnologies.Repository\\StormTechnologies.Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\snawaz.GBTAXFREE\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
