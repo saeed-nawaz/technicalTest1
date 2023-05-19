@@ -7,8 +7,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CXmlInvoiceGenerator", "CXm
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6D91811C-5518-4BEC-8F82-C656F530ADD3}"
 	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
 		README.md = README.md
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StormTechnologies.Repository", "StormTechnologies.Repository\StormTechnologies.Repository.csproj", "{8E73A54F-6CD2-44EB-BF2D-E284329A747C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StormTechnologies.Entities", "StormTechnologies.Entities\StormTechnologies.Entities.csproj", "{75F4DDE5-9C9C-4D20-AB19-A7C488D90B39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StormTechnologies.Settings", "StormTechnologies.Settings\StormTechnologies.Settings.csproj", "{7D5042D0-E142-47A8-AC0A-0B58E5898346}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StormTechnologies.InvoicingService", "StormTechnologies.InvoiceGenerator\StormTechnologies.InvoicingService.csproj", "{660A0D2D-428B-45A0-BCB7-C0E673A7E553}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +29,22 @@ Global
 		{73D80BE6-7B09-41B4-8B04-44C00A7548D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73D80BE6-7B09-41B4-8B04-44C00A7548D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73D80BE6-7B09-41B4-8B04-44C00A7548D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E73A54F-6CD2-44EB-BF2D-E284329A747C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E73A54F-6CD2-44EB-BF2D-E284329A747C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E73A54F-6CD2-44EB-BF2D-E284329A747C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E73A54F-6CD2-44EB-BF2D-E284329A747C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75F4DDE5-9C9C-4D20-AB19-A7C488D90B39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F4DDE5-9C9C-4D20-AB19-A7C488D90B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75F4DDE5-9C9C-4D20-AB19-A7C488D90B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75F4DDE5-9C9C-4D20-AB19-A7C488D90B39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D5042D0-E142-47A8-AC0A-0B58E5898346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D5042D0-E142-47A8-AC0A-0B58E5898346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D5042D0-E142-47A8-AC0A-0B58E5898346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D5042D0-E142-47A8-AC0A-0B58E5898346}.Release|Any CPU.Build.0 = Release|Any CPU
+		{660A0D2D-428B-45A0-BCB7-C0E673A7E553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{660A0D2D-428B-45A0-BCB7-C0E673A7E553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{660A0D2D-428B-45A0-BCB7-C0E673A7E553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{660A0D2D-428B-45A0-BCB7-C0E673A7E553}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
