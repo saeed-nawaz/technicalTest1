@@ -1,0 +1,12 @@
+C:\Saeed\StormTechnologies\technicalTest1\StormTechnologies.Settings\bin\Debug\net6.0\StormTechnologies.Settings.deps.json
+C:\Saeed\StormTechnologies\technicalTest1\StormTechnologies.Settings\bin\Debug\net6.0\StormTechnologies.Settings.dll
+C:\Saeed\StormTechnologies\technicalTest1\StormTechnologies.Settings\bin\Debug\net6.0\StormTechnologies.Settings.pdb
+C:\Saeed\StormTechnologies\technicalTest1\StormTechnologies.Settings\obj\Debug\net6.0\StormTechnologies.Settings.csproj.AssemblyReference.cache
+C:\Saeed\StormTechnologies\technicalTest1\StormTechnologies.Settings\obj\Debug\net6.0\StormTechnologies.Settings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Saeed\StormTechnologies\technicalTest1\StormTechnologies.Settings\obj\Debug\net6.0\StormTechnologies.Settings.AssemblyInfoInputs.cache
+C:\Saeed\StormTechnologies\technicalTest1\StormTechnologies.Settings\obj\Debug\net6.0\StormTechnologies.Settings.AssemblyInfo.cs
+C:\Saeed\StormTechnologies\technicalTest1\StormTechnologies.Settings\obj\Debug\net6.0\StormTechnologies.Settings.csproj.CoreCompileInputs.cache
+C:\Saeed\StormTechnologies\technicalTest1\StormTechnologies.Settings\obj\Debug\net6.0\StormTechnologies.Settings.dll
+C:\Saeed\StormTechnologies\technicalTest1\StormTechnologies.Settings\obj\Debug\net6.0\refint\StormTechnologies.Settings.dll
+C:\Saeed\StormTechnologies\technicalTest1\StormTechnologies.Settings\obj\Debug\net6.0\StormTechnologies.Settings.pdb
+C:\Saeed\StormTechnologies\technicalTest1\StormTechnologies.Settings\obj\Debug\net6.0\ref\StormTechnologies.Settings.dll
